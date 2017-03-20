@@ -1,0 +1,27 @@
+{
+  "name": "promise-ext",
+  "version": "0.1.0",
+  "description": "To Extend the Promise, not to execute the executor function until then is invoked",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasudevan-palani/promise-ext.git"
+  },
+  "keywords": [
+    "Promise",
+    "extension",
+    "promise",
+    "utils"
+  ],
+  "author": "Vasudevan PALANI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vasudevan-palani/promise-ext/issues"
+  },
+  "homepage": "https://github.com/vasudevan-palani/promise-ext#readme",
+  "dependencies": {
+  }
+}
