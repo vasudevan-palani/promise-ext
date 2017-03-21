@@ -1,6 +1,6 @@
 {
-  "name": "promise-ext",
-  "version": "0.1.0",
+  "name": "promiseext",
+  "version": "0.1.1",
   "description": "To Extend the Promise, not to execute the executor function until then is invoked",
   "main": "index.js",
   "scripts": {

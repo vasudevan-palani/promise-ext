@@ -5,7 +5,7 @@ PromiseExt is a wrapper on top of promise, which will not execute the promise ex
 ## Code Example
 
 ```
-PromiseExt = require('promise-ext');
+PromiseExt = require('promiseext');
 var promise = new PromiseExt(function(resolve, reject) {
     resolve({data:'sample'});
 });
@@ -24,13 +24,13 @@ promise.then(function(resp) {
 
 Step1 :
 ```
-npm install promise-ext
+npm install promiseext
 ```
 
 Step2 :
 
 ```
-PromiseExt = require('promise-ext');
+PromiseExt = require('promiseext');
 
 // then start using PromiseExt like Promise
 
